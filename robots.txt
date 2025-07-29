@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://raw.githubusercontent.com/helenxiexieni/tesla-referral/main/sitemap.xml
+Sitemap: https://zesty-marshmallow-19e1ca.netlify.app/sitemap.xml
 
